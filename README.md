@@ -77,6 +77,11 @@ After running:
 
 ---
 
+<img width="942" height="734" alt="Screenshot 2026-04-06 121216" src="https://github.com/user-attachments/assets/1a9a39eb-21f4-4e4c-b02b-2f032c9fa944" />
+
+
+---
+
 ## 🔑 Encryption Methods Explained
 
 | Method     | Type                   | Description                            |
